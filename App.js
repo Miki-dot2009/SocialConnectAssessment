@@ -1,12 +1,18 @@
 //import logo from './logo.svg';
 import './App.css';
 import NavBar from './NavBar';
-import Cards from './Cards';
+//import CardsComponent from './Cards';
+
+
+//import Cards2 from './Cards2';
 
 function App() {
   return (
-    <NavBar />
-    
+    <div>
+      <NavBar />
+      
+    </div>
+   
     
   );
 }
